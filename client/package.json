@@ -33,6 +33,7 @@
     "react-scripts": "^5.0.1",
     "react-super-responsive-table": "^6.0.0",
     "react-type-animation": "^3.2.0",
+    "serve": "^14.2.5",
     "showdown": "^2.1.0",
     "swiper": "^9.3.1",
     "vercel": "^38.0.0",
